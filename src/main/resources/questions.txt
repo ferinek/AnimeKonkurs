@@ -1,0 +1,419 @@
+1
+P: << Kto jest szefem rosyjskiej mafii w roanapra>>
+O: << Ba³a³ajka>>
+
+2
+P: << Czym handluje koœció³ w Roanapra>>
+O: << Broni¹>>
+
+3
+P: << Dlaczego Rokuro Okajima przy³¹czy³ sie do za³ogi Lagoon>>
+O: << Poniewa¿ firma w której pracowa³ usmierci³a go>>
+
+4
+P: << Po co Rock i Revi nurkowali do wraku U-bota?>>
+O: << Obraz z ukrytymi w nim numerami kont SS >>
+
+5
+P: << Kim By³a Roberta zanim zacze³a byæ pokojówka>>
+O: << Terrorystk¹, Partyzantka FARC>>
+
+6
+P: << Jak nazywa siê ulubiony bar Za³ogi Lagoon>>
+O: << Yellow Flag>>
+
+7
+P: << Kogo przedstawia screen>>
+O: << Revi & Roberta>>
+S: << 1 >>
+
+8
+P: << Jak ma naprawdê na imiê Revi>>
+O: << Rebecca>>
+
+9
+P: << Czym by³ Major najwiêkszy wróg Alucarda>>
+O: << Cyborgiem>>
+
+10
+P: << Dlaczego Walter zdradzi³ Helsiga i Integre>>
+O: << Chcia³ sie zmierzyæ z Alucardem>>
+
+11
+P: << Jak Integra "Obódzi³a" Alucarda>>
+O: << Napi³ sie jej krwi gdy zosta³a postrzelona przez swojego wuja>>
+
+12
+P: << Jaka bronia walczy Alexander Anderson>>
+O: << Bagnetami>>
+
+13
+P: << Jak nazywa siê preferowana broñ Seras>>
+O: << Harkonnen,   Hellsing ARMS Anti-Tank Cannon 'Harkonnen >>
+
+14
+P: << Kim by³a Seras zanim sta³a sie wampirzyc¹>>
+O: << Policjantk¹ >>
+
+15
+P: << Kogo przedstawia screen>>
+O: << Alucarda >>
+S: << 2>>
+
+16
+P: << Czym zajmuja sie uczniowie po zajêciach w Kakegurui>>
+O: << Hazardem>>
+
+17
+P: << Z jakiego anime pochodzi ten screen>>
+O: << Kakegurui>>
+S: << 3>>
+
+18
+P: << Do zjedzenia czego Thoru próbuje namówic Kobayashi>>
+O: << Swojego ogona>> 
+
+19
+P: << Sk¹d Kanna Kamui czerpie energie>>
+O: << Z gniazdka elektrycznego>>
+
+20
+P: << Z czym Shota myli Lucoe>>
+O: << Z demonem Succubem>>
+
+21
+P: << Dlaczego Thoru i Elma nie przepadaj¹ za sob¹>>
+O: << S¹ z przeciwnych frakcji>>
+
+22
+P: << Jak dosz³o do spotkania Kobayashi i Thoru>>
+O: << Nie trzeŸwa Kobayashi nie wysiad³a na swoim przystanku, i zawendrowa³a w góry tam spotka³a rann¹ Thoru, wyjê³a z jej rany miecz i zaczê³y razem pic>>
+
+23
+P: << Co pozwala Ange z princes principal lataæ>>
+O: << Urz¹dzenie zwane C-Ball>>
+
+24
+P: << Co Dorothy z Pricess Principall uwa¿a za broñ kobiety>>
+O: << Piersi>>
+
+25
+P: << Dlaczego Beatrice z Pricess Pricipall potrafi zmieniaæ g³os>>
+O: << Ojciec na niej eksperymentowa³ i wsta³i³ jej w krtañ u¿¹dzenie które na to pozwala>>
+
+26
+P: << Jakie anime przedstawia screen>>
+O: << Princess Principal>>
+S: << 4 >>
+
+27
+P: << Jak nazywaj¹ siê potwory z którymi walcza Clymore>>
+O: << Yomy>>
+
+28
+P: << Jaki numer W hierarchi Clymore nosi Claire>>
+O: << 47>>
+
+29
+P: << Jak tworzonê sa Clymore>>
+O: << Przez implantacje czêœci cia³a Yomy w cia³o kobiety>>
+ 
+30
+P: << Dlaczego Claire ró¿ni sie od pozosta³ych Clymore>>
+O: << Poniewaz w Claire wszczepiono czeœæ cia³a innej Clymore i jest tylko w 1/4 Yom¹>>
+
+31
+P: << Co Edward Elric odda³ za duszê brata>>
+O: << Prawê ramiê>>
+
+32
+P: << Dlaczego Edward Elric jest nazywany Pe³nometalowym alchemikiem>>
+O: << Bo posiada metalowe protezy rêki i nogi>>
+
+33
+P: << Gdzie zgineli rodzice Winry z FMAB>
+O: << Zgineli w Ishvalu>>
+
+34
+P: << Dlaczego Scar poluje na pañstwowych alchemików>>
+O: << Mœci siê za œmieræ brata i innych Ishvalczyków>>
+
+35
+P: << Z czego tworzy siê kamieñ filozoficzny>>
+O: << Z ludzi>>
+
+36
+P: << Czym jest Ojciec braci Elric>>
+O: << Hohenheim jest ¿ywym kamieniem filozoficznym>>
+
+37
+P: << Jaka jest druga praca Worrica Arcangelo>>
+O: << ¯igolak >>
+
+38
+P: << Dlaczego Nicholas Brown jest silniejszy od zwyk³ych ludzi>>
+O: << poniewa¿ jest Twilightem dzieki Celeberowi>>
+
+39
+P: << Jakie anime przedstawia screen>>
+O: << GANGSTA.>>
+S: << 5 >>
+
+40
+P: << Ile lat ma Rory Mercury >>
+O: << 961 >>
+
+41
+P: << Gdzie w Japonii otworzy³a siê Brama>>
+O: << Dystrykt Ginza w Tokyo>>
+
+42
+P: << Kogo pobi³a Kuribayashi podczas spotkania z Imperatorem Moltem>>
+O: << Kuribayashui pobi³a Kiêcia Zorzala >>
+
+43
+P: << Jak zabito czerwonego smoka>>
+O: << Wysadzono pod nim 70kg C4>>
+
+44
+P: << Jak ma na imiê starsza siostra Leilei>>
+O: << Starsza siostra Leilei ma na imiê Arpeggio>>
+
+45
+P: << Jak Tuka uratowa³a sie przed czaerwonym smokiem>>
+O: << Ojciec wrzuci³ j¹ do studni>>
+
+46
+P: << Jakie anime przedstawia screen>>
+O: << GATE Thus the JSDF Fought There!>>
+S: << 6 >>
+
+47
+P: << Jak nazywa siê pracodawca Jonaha z Jormungand>>
+O: << Koko Hekmatyar>>
+
+48
+P: << Czym walczy Valmet z Jormungand>>
+O: << Valmet walczy no¿ami >>
+
+49
+P: << kto jest kretem CIA w odziale Jonaha>>
+O: << "R" Renato Socci>>
+
+50
+P: << Czym handluje pracodawca Jonaha>>
+O: << Pracodawca Jonaha handluje broni¹>>
+
+51
+P: << Jak zosta³ nazwany paso¿yt w rêce Shinichi Izumiego>>
+O: << Migi\Righty>>
+
+52
+P: << jak sprawdziæ czy któœ nie jest paso¿ytem w Kiseiju>>
+O: << Wyrywa sie w³osy i sprawdz siê czy sie nie poruszaj¹ >>
+
+53
+P: << Dlaczego Shinichi Izumi nie po¿era innych ludzi>>
+O: << Bo paso¿yt nie przej¹ jego mózgu i ¿ywi sie substancjami od¿ywczymi z krwi izumiego>>
+
+54
+P: << Jakie anime przedstawia screen>>
+O: << Kiseiju Parasyte>>
+S: << 7 >>
+
+55
+P: << Jak¹ klase posiada Shiroe z Log Horizon>>
+O: << Zaklinacz|Enchanter>>
+
+56
+P: << Kto odkry³ sposób gotowania potraw ze smakiem w Log Horizon>>
+O: << Nyanta >>
+
+57
+P: << Jakie przezwisko nosi Shiroe z Log Horizon>>
+O: << Haraguro Megane| Black Heart Glasses| Podstêpny Okularnik>>
+
+58
+P: << Jakim zboczeñcem nazywa sie Naotsugu z Log Horizon>>
+O: << Otwartym>>
+
+59
+P: << W wypowiedzeniu jakiego s³owa przeszkadza Akatsuki, Naotsugu>>
+O: << Panties| Majteczki>>
+
+60
+P: <<Dlaczego Rin Asogi jest nieœmiertelna>>
+O: <<Zosta³a zainfekowana zarodnikiem czasu z drzewa Yggdrasil>>
+
+61
+P: <<Jakie by³y skutki wpadniêcia Rin Asogi do silnika samolotu pasa¿erskiego>>
+O: << Straci³a pamiec>>
+
+62
+P: << Jakie zazwyczaj "œniadanie" jedz¹ Rin Asogi i jej przyjaciólka Mimi>>
+O: << Pija mocny alkochol>>
+  
+63 
+P: << Jakie anime przedstawia screen>>
+O: << RIN: Daughters of Mnemosyne| Mnemosyne – Mnemosyne no Musume-tachi
+S: << 8 >>
+
+64
+P: << Po ilu krokach Papi harpia traci pamiêæ>.
+O: << Po trzech>>
+
+65
+P: << Czym upija sie Rachnera Arachnera>>
+O: << Kofein¹| Kaw¹>>
+
+66
+P: << Jak d³uga jest Lamia Miia>>
+O: << 7m >>
+
+67
+P: << W co rodzeñstwo z "No Game No Life" pokona³o boga gier Teta>> 
+O: << W szachy>>
+
+68
+P: << Co dziadek Stephani Doli przegra³ z Jibril>>
+O: << Bibliotekê >>
+
+69
+P: << W co Sora gra³ z Kap³ank¹ Zwierzo³aków>>
+O: << Rzuci³ monet¹ >>
+
+70
+P: << Jak Sora i Shiro zostali królem i królowa Elki>>
+O: << Wygrali z Kurami Zell w szachy >>
+
+71
+P: << Co Sora i Shiro spodziewali sie znaleŸc w tajnym pokoju dziadka Steph>>
+O: << Kolekcjê œwierszczyków>>
+
+72
+P: << Dlaczego Albedo kocha siê w Ainzie>>
+O: << Ainz przegl¹da³ jej ustawienia i zmieni³ ustawienia twórcy na: "kocha siê w Momondze"
+
+73
+P: << Jak nazywa siê NPC stworzony przez Ainza>>
+O: << Pandoras Actor>>
+
+74
+P: << Jak nazywa siê poszukiwacz przygód alter ego Ainza gdy ten wychodzi z grobowca>>
+O: << Momon>> 
+
+75
+P: << Jak ainz zabi³ Clementine>>
+O: << Œcisn¹³ j¹>> 
+
+76
+P: << Kogo przedstawia screen>> 
+O: << M¹dry w³adca lasu| Hamasuke| Chomis³aw    
+S: << 9 >>
+
+77
+P: << Jak nazywa siê strzelanka w któr¹ gra Kirito ¿eby znalexæ zabójcê graczy>>
+O: << Gun Gale Online >>
+
+78
+P: << Jak nazywa siê latajacy z amek z SAO>>
+O: << Aincrad >>
+
+79
+P: << Czym walczy asuna w pierwszym sezonie SAO>>
+O: << Rapierem| Lambient Light>>
+
+80
+P: << Dlaczego Kirito dosta³ Double Wield>>
+O: << Bo mia³ najszybszy czas reakcji>>
+
+81
+P: << Jak ma na i mie najlepszy przyjaciel Simona z gurren Lagan>>
+O: << Kamina >>
+
+82
+P: << Do czego zosta³y stworzone Gunmeny>>
+O: << ¯eby walczyæ z Antyspiralnymi>>
+
+83
+P: << Jakie anime przedstawia screen>>
+O: << Tengen Toppa Gurren Lagann>> 
+S: << 10>>
+
+84
+P: << Od kogo swój Geass dosta³ Lelouch Lamperouge>>
+O: << Od C.C. >>
+
+85
+P: << Jak nazywaj¹ siê Mechy z uniwerum Code Geass>>
+O: << Kinghtomare Frame >>
+
+86
+P: << Jaki minera³ jest wykorzystywany do zasilania mechów w Code Geass>>
+O: << Sakuradyt>>
+
+87
+P: << Jakie imiê przyj¹³ Lelouch Lamperouge gdzy zacz¹³ prowadziæ Czarnych Rycerzy>>
+O: << Zero>>
+
+88
+P: << Jak nazywa siê mech Suzaku>>
+O: << Lancelot >> 
+
+89
+P: << Jaki Geass ma Rycerz numer 1 Bismarc Waldstein>>
+O: << Potrafi spoj¿eæ w przysz³oœc na kilka milisekund>>
+
+90
+P: << Jakie anime przedstawia screen>>  
+O: << Code Geass R1>>
+S: << 11 >>
+
+91
+P: << Czym zajmowa³ siê ernesti Echevailer zanim zreinkarnowa³ w œwiecie Knight & Magic>>
+O: << By³ programist¹>>
+
+92
+P: << Jakie anime przedstawia screen>> 
+O: << Knight and Magic>> 
+S: << 12>>
+
+93
+P: << Jakie anime przedstawia screen>>
+O: << Centaur no Nayami>>
+S: << 13 >>
+
+94
+P: << Jakie anime przedstawia screen>>
+O: << Chobits >>
+S: << 14 >>
+
+95 
+P: << Jakie anime przedstawia screen>>
+O: << Flip Flappers >>
+S: << 15 >>
+
+96
+P: << Jakie anime przedstawia screen>>
+O: << Black Bullet >>
+S: << 16 >>
+
+97 
+P: << Jakie anime przedstawia screen>> 
+O: << High School of the Dead>>
+S: << 17 >>
+
+98 
+P: << Jakie anime przedstawia screen>>
+O: << Tiger Mask W >> 
+S: << 18 >> 
+
+99 
+P: << Jakie anime przedstawia screen>> 
+O: << Valkyrie Drive: Mermaid >>
+S: << 19 >>
+
+100
+P: << Jakie anime przedstawia screen>> 
+O: << Kakumeiki Valvrave (Valvrave the Liberator)>> 
+S: << 20 >> 
