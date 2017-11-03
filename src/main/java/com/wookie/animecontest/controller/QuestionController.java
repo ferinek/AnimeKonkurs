@@ -1,16 +1,21 @@
 package com.wookie.animecontest.controller;
 
+import com.google.common.io.Resources;
 import com.wookie.animecontest.component.OrderedQuestionPane;
 import javafx.fxml.FXML;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
+import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.GridPane;
-import javafx.scene.text.Text;
+import javafx.scene.media.Media;
+import javafx.scene.media.MediaPlayer;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 import org.springframework.beans.factory.annotation.Autowired;
+
+import java.net.URL;
 
 public class QuestionController {
     private Stage stage;
@@ -18,7 +23,7 @@ public class QuestionController {
     @Autowired
     private MainController mainController;
     @FXML
-    private Text text;
+    private Label text;
     @FXML
     private ImageView image;
     @FXML
@@ -60,11 +65,25 @@ public class QuestionController {
 
     private void updateStage(OrderedQuestionPane pane) {
         text.setText(pane.getQuestion().getQuestion());
+        setImage(pane.getQuestion().getPathToImage());
         for (int i = 0; i < answers.length; i++) {
             answers[i].setText(pane.getQuestion().getAnswers()[i]);
         }
         for (AnchorPane aPane : panes) {
             aPane.setOnMouseClicked(event -> resolveAnswer((AnchorPane) (event.getSource()), pane));
+        }
+    }
+
+    private void setImage(String pathToImage) {
+        if (pathToImage != null) {
+            URL resource = Resources.getResource(String.format("screens/%s.jpg", pathToImage));
+            if (resource == null) {
+                resource = Resources.getResource(String.format("screens/%s.png", pathToImage));
+            }
+            image.setImage(new Image(resource.toString()));
+        } else {
+            image.setImage(new Image(Resources.getResource("screens/0.jpg").toString()));
+
         }
     }
 
@@ -85,7 +104,6 @@ public class QuestionController {
         stage.setMaximized(true);
         stage.initModality(Modality.WINDOW_MODAL);
         stage.initOwner(mainController.getRootLayout().getScene().getWindow());
-        text = new Text();
         text.setText("placeholder");
         image = new ImageView();
 
@@ -104,11 +122,20 @@ public class QuestionController {
     }
 
     public void guessedRight() {
+        String bip = "win.mp3";
+        Media hit = new Media(Resources.getResource(bip).toString());
+        MediaPlayer mediaPlayer = new MediaPlayer(hit);
+        mediaPlayer.play();
         stage.hide();
         mainController.update(true);
+
     }
 
     public void guessedWrong() {
+        String bip = "lose.mp3";
+        Media hit = new Media(Resources.getResource(bip).toString());
+        MediaPlayer mediaPlayer = new MediaPlayer(hit);
+        mediaPlayer.play();
         stage.hide();
         mainController.update(false);
     }
