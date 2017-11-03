@@ -8,7 +8,16 @@ public class QuestionDTO {
     private String pathToImage;
     private PointDifficulty pointReward;
     private String[] answers;
-    private int correctAnswerIndex;
+
+    public String getCorrectAnswer() {
+        return correctAnswer;
+    }
+
+    public void setCorrectAnswer(String correctAnswer) {
+        this.correctAnswer = correctAnswer;
+    }
+
+    private String correctAnswer;
 
     public QuestionDTO() {
         answers = new String[4];
@@ -20,14 +29,6 @@ public class QuestionDTO {
 
     public void setAnswers(String[] answers) {
         this.answers = answers;
-    }
-
-    public int getCorrectAnswerIndex() {
-        return correctAnswerIndex;
-    }
-
-    public void setCorrectAnswerIndex(int correctAnswerIndex) {
-        this.correctAnswerIndex = correctAnswerIndex;
     }
 
     public String getQuestion() {

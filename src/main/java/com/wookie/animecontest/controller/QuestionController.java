@@ -60,8 +60,20 @@ public class QuestionController {
 
     private void updateStage(OrderedQuestionPane pane) {
         text.setText(pane.getQuestion().getQuestion());
-        for (Label answer : answers) {
-            answer.setText(pane.getQuestion().getAnswers()[0]);
+        for (int i = 0; i < answers.length; i++) {
+            answers[i].setText(pane.getQuestion().getAnswers()[i]);
+        }
+        for (AnchorPane aPane : panes) {
+            aPane.setOnMouseClicked(event -> resolveAnswer((AnchorPane) (event.getSource()), pane));
+        }
+    }
+
+    private void resolveAnswer(AnchorPane pane, OrderedQuestionPane pane2) {
+        String answer = ((Label) pane.getChildren().get(0)).getText();
+        if (pane2.getQuestion().getCorrectAnswer().equals(answer)) {
+            guessedRight();
+        } else {
+            guessedWrong();
         }
     }
 
@@ -69,7 +81,8 @@ public class QuestionController {
         stage = new Stage();
         stage.setScene(new Scene(rootLayout));
         stage.setTitle("Pytanie");
-        stage.setAlwaysOnTop(true);
+        stage.setAlwaysOnTop(false);
+        stage.setMaximized(true);
         stage.initModality(Modality.WINDOW_MODAL);
         stage.initOwner(mainController.getRootLayout().getScene().getWindow());
         text = new Text();
