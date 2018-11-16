@@ -25,13 +25,19 @@ public class PlayerPointsListView {
     }
 
     public void addPoints(PlayerDTO player, Integer points) {
-        player.setPoints(player.getPoints() + points);
+        for(int i=0;i<items.size();i++){
+            if (player.getName().equals(items.get(i).getName())){
+                player.setPoints(player.getPoints() + points);
+                items.remove(i);
+                items.add(i, player);
+
+            }
+        }
+
     }
 
     public PlayerDTO getFirstPlayer() {
-
         return togglePlayerActive(0);
-
     }
 
     public PlayerDTO getNextPlayer() {
@@ -55,5 +61,20 @@ public class PlayerPointsListView {
         items.remove(index);
         items.add(index, dto);
         return dto;
+    }
+
+    public PlayerDTO getPreviousPlayer() {
+        for (int i = 0; i < items.size(); i++) {
+            PlayerDTO dto = items.get(i);
+            if (dto.isActive()) {
+                togglePlayerActive(i);
+                if (i ==0 ) {
+                    return togglePlayerActive(items.size()-1);
+                } else {
+                    return togglePlayerActive(i - 1);
+                }
+            }
+        }
+        return null;
     }
 }

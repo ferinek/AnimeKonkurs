@@ -1,9 +1,9 @@
 package com.wookie.animecontest.component;
 
 import com.wookie.animecontest.component.dto.QuestionDTO;
-import javafx.scene.layout.Pane;
+import javafx.scene.layout.StackPane;
 
-public class OrderedQuestionPane extends Pane {
+public class OrderedQuestionPane extends StackPane {
 
     private int row;
     private int column;

@@ -13,11 +13,11 @@ import java.util.LinkedList;
 import java.util.List;
 
 @Component
-public class QuestionService {
+public class QuestionReadingService {
 
     private List<QuestionDTO> list;
 
-    public QuestionService() {
+    public QuestionReadingService() {
         parseQuestionsFromFile();
 //        parseQuestions();
     }
@@ -56,11 +56,10 @@ public class QuestionService {
         dto.setCorrectAnswer(getAnswerByLetter(readyAnswers, split[1]));
         List<String> strings = Arrays.asList(readyAnswers);
         Collections.shuffle(strings);
-        dto.setAnswers((String[])strings.toArray());
-
-
+        dto.setAnswers((String[]) strings.toArray());
         if (lines.length > 3) {
-            dto.setPathToImage(lines[3]);
+            dto.setPathToImage(lines[3].split(":")[1].trim().replace("<<", "")
+                    .replace(">>", "").replace(" ", ""));
         }
         return dto;
     }

@@ -1,433 +1,433 @@
 1 C 1
-P: Kto jest szefem rosyjskiej mafii w Black Lagoon
-O:  A:Jodorovki  B:Maria Zaleska C: Bałałajka D: Boris
+P: Kto jest szefem rosyjskiej mafii w Black Lagoon?
+O: A:Jodorovki  B:Maria Zaleska C: Bałałajka D: Boris
 
 2 A 2
-P: Czym handluje kościół w Black Lagoon
+P: Czym handluje kościół w Black Lagoon?
 O: A: Bronią  B: Alkoholem C: Ludźmi D: Świętymi obrazami
 
 3 D 1
-P: Dlaczego Rokuro Okajima przyłączył sie do załogi Lagoon
-O: A: Dobrze zapłacili  B: Z nudów C: Założył sie z Revvy D: Szef go uśmiercił
+P: Dlaczego Rokuro Okajima przyłączył sie do załogi Lagoon?
+O: A: Dobrze zapłacili  B: Z nudów C: Założył sie z Revy D: Szef go uśmiercił
 
 4 A 1
-P:  Po co Rock i Revi nurkowali do wraku U-bota?
-O:  A: Obraz B: Ciało Kapitana C: Medale D: Złoto
+P: Po co Rock i Revy nurkowali do wraku U-bota?
+O: A: Obraz B: Ciało Kapitana C: Medale D: Złoto
 
 5 B 3
-P:  Kim Była Roberta zanim zaczeła być pokojówka
-O:  A: Agentką CIA  B: Partyzantką FARC  C: Handlarką broni D: Chińskim szpiegiem
+P: Kim była Roberta zanim zaczeła być pokojówką?
+O: A: Agentką CIA  B: Partyzantką FARC  C: Handlarką broni D: Chińskim szpiegiem
 
 6 A 2
-P: Jak nazywa się ulubiony bar Załogi Lagoon
+P: Jak nazywa się ulubiony bar Załogi Lagoon?
 O: A: Yellow Flag B: White Flag C: Jolly Roger D: Cutlass
 
 7 D 1
-P: Kogo przedstawia screen
-O: A: Hänsel and Gretel B: Fabiola & Shenhua C: Eda & Yolanda D: Roberta & Revvy
-S:  1
+P: Kogo przedstawia zrzut ekranu?
+O: A: Hänsel and Gretel B: Fabiola & Shenhua C: Eda & Yolanda D: Roberta & Revy
+S: 1
 
-8 B 2
-P: Jak ma naprawdę na imię Revi
+8 C 2
+P: Jak naprawdę ma na imię Revy?
 O: A: Regina B: Roberta C: Rebecca D:Yukio
 
 9 A 2
-P: Czym był Major największy wróg Alucarda
+P: Czym był Major, największy wróg Alucarda?
 O: A: Cyborgiem B: Wampirem C: Demonem D: Wilkołakiem
 
 10 C 2
-P: Dlaczego Walter zdradził Helsiga i Integre
-O: A: Naziści wyrali Mu móżg B: Major zapłacił mu więcej C: Chciał sie zmierzyć z Alucardem D: Chciał żyć wiecznie
+P: Dlaczego Walter zdradził Helsinga i Integrę?
+O: A: Naziści wyrali mu móżg B: Major zapłacił mu więcej C: Chciał sie zmierzyć z Alucardem D: Chciał żyć wiecznie
 
 11 B 1
-P: Jak Integra "Obódziła" Alucarda
+P: Jak Integra "obudziła" Alucarda?
 O: A: Wbiła w niego relikwię B: Napił sie jej krwi C: Odprwaiła specialny rytuał D: Poraziła go prądem
 
 12 D 1
-P: Jaka bronia walczy Alexander Anderson
+P: Jaką bronią walczy Alexander Anderson?
 O: A: Talią kart B: Kataną C: Dwoma pistoletami D: Bagnetami
 
 13 C 3
-P:  Jak nazywa się preferowana broń Seras
+P:  Jak nazywa się preferowana broń Seras?
 O:  A: Golden Cross B: Harkonnen C: Jackal D: Casull
 
 14 A 1
-P:  Kim była Seras zanim stała sie wampirzycą
-O: A: Policjantką B: Wojskową C: Ochroniarzem D:Pracowała w biurze
+P:  Kim była Seras zanim stała sie wampirzycą?
+O: A: Policjantką B: Wojskową C: Ochroniarzem D: Pracowała w biurze
 
 15 C 2
-P: Kogo przedstawia screen
+P: Kogo przedstawia zrzut ekranu?
 O: A: Zorin B: Seras C: Alucarda D: Integre
 S: 2
 
 16 D 1
-P: Czym zajmuja sie uczniowie po zajęciach w Kakegurui
+P: Czym zajmują sie uczniowie po zajęciach w Kakegurui?
 O: A: Walką B: Sportem C: Morderstwami D: Hazardem
 
 17 C 1
-P: Z jakiego anime pochodzi ten screen
+P: Z jakiego anime pochodzi ten zrzut ekranu?
 O: A: K-on B: Inuyashiki C: Kakegurui D: Id-O
-S:  3
+S: 3
 
 18 D 2
-P: Do zjedzenia czego Thoru próbuje namówic Kobayashi
+P: Do zjedzenia czego Thoru próbuje namówić Kobayashi?
 O: A: Słodyczy B: Kanny C: Bakłażanów D: Swojego ogona
 
 19 A 2
-P: Skąd Kanna Kamui czerpie energie
-O: A: Z gniazdka elektrycznego B: Z jedenia C: Z Kobayashi D: Z Alkcholu
+P: Skąd Kanna Kamui czerpię energie?
+O: A: Z gniazdka elektrycznego B: Z jedenia C: Z Kobayashi D: Z Alkoholu
 
 20 B 3
-P: Z czym Shota myli Lucoe
+P: Z czym Shota myli Lucoę?
 O: A: Ze smokiem B: Z demonem C: Z boginią D: Z wampirem
 
 21 B 1
-P: Dlaczego Thoru i Elma nie przepadają za sobą
-O: A: Obie próbuja zdobyś serce Kobayashi  B: Są z przeciwnych frakcji C: Mają podobne apetyty D: Któraś uważa sie za lepszą
+P: Dlaczego Thoru i Elma nie przepadają za sobą?
+O: A: Obie próbują zdobyć serce Kobayashi  B: Są z przeciwnych frakcji C: Mają podobne apetyty D: Każda uważa się za lepszą
 
 22 B 2
-P: W jaką grę planszową grały ze sobą Kana i Saikawa
-O: A: Monopoly B: Twister C: Chinczyk D: Warcabny
+P: W jaką grę zręcznościową grały ze sobą Kana i Saikawa?
+O: A: Monopoly B: Twister C: Chińczyk D: Warcaby
 
 23 A 3
-P: Co pozwala Ange z Princes Principal latać
-O: A: Urządzenie zwane C-Ball B: Szkrzydła C: Plecak rakietowy D: Magia
+P: Co pozwala Ange z Princes Principal latać?
+O: A: Urządzenie zwane C-Ball B: Skrzydła C: Plecak rakietowy D: Magia
 
 24 D 1
-P: Co Dorothy z Pricess Principall uważa za broń kobiety
+P: Co Dorothy z Pricess Principal uważa za broń kobiety?
 O: A: Pistolet B: Maniery C: Truciznę D: Piersi
 
 25 D 3
-P: Kim na prawdę jest Ange z Princes Principal
+P: Kim na prawdę jest Ange z Princes Principal?
 O: A: Dyrektorem B: Szpiegiem C: Kieszonkowcem D: Księżniczką
 
 26 C 1
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A:Samurai 7 B: Koutetsujou no Kabaneri C: Princess Principal D: Made in Abyss
-S:  4
+S: 4
 
 27 A 2
-P: Jak nazywają się potwory z którymi walcza Clymore
+P: Jak nazywają się potwory z którymi walczą Claymore?
 O: A: Yomy B: Wampiry C: Ghule D: Yoki
 
 28 D 2
-P: Jaki numer W hierarchi Clymore nosi Claire
+P: Jaki numer w hierarchi Claymore nosi Claire?
 O: A: 74 B: 1 C: 37 D: 47
 
 29 C 1
-P: Jak tworzonę sa Clymore
-O: A: Rodzą się takie B: Przez magię C: Łączy sie ich ciała z krwią potworów D: Budowane z części cyborgów
+P: Jak tworzone sa Claymore?
+O: A: Rodzą się takie B: Przez magię C: Łączy sie ich ciała z krwią potworów D: Budowane są z części cyborgów
 
 30 C 2
-P: Dlaczego Claire różni sie od pozostałych Clymore
-O: A: urodziłą się silniejsza B: Jest w 3/4 potworem C: Jest 1/4 potworem D: Nie jset kompadybilna z magią
+P: Dlaczego Claire różni sie od pozostałych Claymore?
+O: A: Urodziła się silniejsza B: Jest w 3/4 potworem C: Jest 1/4 potworem D: Nie jest kompatybilna z magią
 
 31 C 3
-P: Co Edward Elric oddał za duszę brata
-O: A: Lewą nogę  B: Lewe ramię C: Prawę ramię D: Prawą nogę
+P: Co Edward Elric oddał za duszę brata?
+O: A: Lewą nogę  B: Lewe ramię C: Prawe ramię D: Prawą nogę
 
 32 B 1
-P: Dlaczego Edward Elric jest nazywany Pełnometalowym alchemikiem
+P: Dlaczego Edward Elric jest nazywany Pełnometalowym Alchemikiem?
 O: A: Nosi zbroję B: Bo posiada protezy ręki i nogi C: Jego atutem jest alchemia metalu D: Słucha ciężkiej muzyki
 
 33 C 2
-P: Gdzie zgineli rodzice Winry z FMAB
-O: A: Zgineli w  Roanaprze B: Zgineli w Ergastulum C: Zgineli w Ishvalu D: Zgineli w E rantel
+P: Gdzie zgineli rodzice Winry z Fullmetal Alchemist: Brotherhood?
+O: A: W Roanaprze B: W Ergastulum C: W Ishvalu D: W E rantel
 
 34 A 1
-P: Dlaczego Scar poluje na państwowych alchemików
-O: A: Mści się B: Bo nie udało mu się zostać jednym z nich C: Poluje na Homonkulusy D: Chce stworzyć kamien filozoficzny
+P: Dlaczego Scar poluje na państwowych alchemików?
+O: A: Mści się B: Bo nie udało mu się zostać jednym z nich C: Poluje na Homonkulusy D: Chce stworzyć kamień filozoficzny
 
 35 B 1
-P: Z czego tworzy się kamień filozoficzny
-O: A: Z metali szlachetnych B: Z ludzi C: Z chimer D: z energi planety
+P: Z czego tworzy się kamień filozoficzny?
+O: A: Z metali szlachetnych B: Z ludzi C: Z chimer D: Z energii planety
 
 36 A 1
-P: Czym jest Ojciec braci Elric
+P: Czym jest Ojciec braci Elric?
 O: A: Kamieniem filozoficznym B: Homonkulusem C: Wampirem D: Bogiem
 
 37 C 3
-P: Jaka jest druga praca Worrica Arcangelo
+P: Jaka jest druga praca Worrica Arcangelo?
 O: A: Zabójca B: Kierowca C: Żigolak D: Lekarz
 
 38 D 1
-P: Dlaczego Nicholas Brown jest silniejszy od zwykłych ludzi
+P: Dlaczego Nicholas Brown jest silniejszy od zwykłych ludzi?
 O: A: Ponieważ jest Bastardem B: Poniweż jest Celebrem C:Ponieważ jest TBem D: Ponieważ jest Twilightem
 
 39 B 1
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: GARO vanishing lines B: GANGSTA. C: Hellsing D: Black Lagoon
 S: 5
 
 40 C 2
-P: Ile lat ma Rory Mercury
+P: Ile lat ma Rory Mercury?
 O: A:951 B:941 C:961 D:971
 
 41 A 1
-P: Gdzie w Japonii otworzyła się Brama
+P: Gdzie w Japonii otworzyła się Brama?
 O: A: Tokyo B: Yokohma C: Sapporo D: Kyoto
 
 42 C 1
-P: Kogo pobiła Kuribayashi podczas spotkania z Imperatorem
-O: A: Strażników Impreatora B: Księżniczkę C: Księcia D: Wszystkich powyższych
+P: Kogo pobiła Kuribayashi podczas spotkania z Imperatorem?
+O: A: Strażników Imperatora B: Księżniczkę C: Księcia D: Wszystkich powyższych
 
 43 B 2
-P: Jak zabito czerwonego smoka
+P: Jak zabito czerwonego smoka?
 O: A: Zrzucono na niego bombę B: Wysadzono go C4 C: Magią D: Wyrzutnią rakiet
 
 44 D 3
-P: Jak ma na imię starsza siostra Leilei
+P: Jak ma na imię starsza siostra Leilei?
 O: A: Risa B: Hamilton C: Mimosa D: Arpeggio
 
 45 A 1
-P: Jak Tuka uratowała sie przed czaerwonym smokiem
+P: Jak Tuka uratowała sie przed czerwonym smokiem?
 O: A: Ojciec wrzucił ją do studni B: Uciekła C: Oślepiła go D: Przepłoszyła go
 
 46 C 2
-P: Jakie anime przedstawia screen>>
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Monster Musume no iru nichijou B: Demi-chan wa Kataritai C: GATE Thus the JSDF Fought There! D: No Game No Life
-S: << 6 >>
+S: 6
 
 47 C 1
-P: Jak nazywa się pracodawca Jonaha z Jormungand
+P: Jak nazywa się pracodawca Jonaha z Jormungand?
 O: A: Kasper Hekmatyar B: Renato Socci C: Koko Hekmatyar D: Karen Low
 
 48 A 1
-P: Czym walczy Valmet z Jormungand
+P: Czym walczy Valmet z Jormungand?
 O: A: Walczy nożami B: Karabinem  C: Bagnetami D: Pistoletem
 
 49 A 3
-P: Kto jest zdrajcą w odziale Jonaha
+P: Kto jest zdrajcą w odziale Jonaha?
 O: A: "R" B: Lehm C: Valmet D: Ciquita
 
 50 A 1
-P: Czym handluje pracodawca Jonaha
+P: Czym handluje pracodawca Jonaha?
 O: A: Bronią B: Narkotykami C: Ludźmi D: Fałszywymi dokumentami
 
 51 A 3
-P: Jak został nazwany pasożyt w ręce Shinichi Izumiego
+P: Jak został nazwany pasożyt w ręce Shinichi Izumiego?
 O: A: Migi B: Jo C: Tamura D: Mitsuo
 
 52 A 2
-P: Jak sprawdzić czy któś nie jest pasożytem w Kiseiju
+P: Jak sprawdzić czy ktoś nie jest pasożytem w Kiseiju?
 O: A: Wyrywa sie włosy B: Podaję się rękę C: Kłuję się w rękę D: Sprawdza się testerem
 
 53 D 2
-P: Dlaczego Ban z Nanatsu tanzai jest nieśmiertelny
+P: Dlaczego Ban z Nanatsu no Tanzai jest nieśmiertelny?
 O: A: Wypił wodę ze świętego lasu B: Urodził się taki C: Merlin to spowodowała D: Elaine napoiła go świętą wodą
 
 54 A 2
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut Ekranu?
 O: A: Kiseiju Parasyte B: Ajin C: Gantz D: Monster
 S: 7
 
 55 A 1
-P: Jaką klase posiada Shiroe z Log Horizon
+P: Jaką klase posiada Shiroe z Log Horizon?
 O: A: Zaklinacz B: Zabójca C: Strażnik D: Mnich
 
 56 A 1
-P: Kto odkrył sposób gotowania potraw ze smakiem w Log Horizon
+P: Kto odkrył sposób gotowania potraw ze smakiem w Log Horizon?
 O: A: Nyanta B: Shiroe C: Akatsuki D: Naotsugu
 
 57 A 2
-P: Jakie przezwisko nosi Shiroe z Log Horizon
+P: Jakie przezwisko nosi Shiroe z Log Horizon?
 O: A: Podstępny Okularnik B: Berserker C: Zabójca Magów D: Mithlirowe Oczy
 
 58 A 2
-P: Jakim zboczeńcem nazywa sie Naotsugu z Log Horizon>>
-O: A: Otwartym B: Zamnkniętym C: Krypto D: NAotsugu nie jest zboczeńcem
+P: Jakim zboczeńcem nazywa sie Naotsugu z Log Horizon?
+O: A: Otwartym B: Zamnkniętym C: Krypto D: Naotsugu nie jest zboczeńcem
 
 59 A 3
-P: W wypowiedzeniu jakiego słowa Akatsukiprzeszkadza Naotsugu
+P: W wypowiedzeniu jakiego słowa Akatsuki przeszkadza Naotsugu?
 O: A: Majteczki B: Biustonosz C: Piersi D: Pośladki
 
 60 A 2
-P: Rin Asogi jest nieśmiertelna
-O: A: Przez zarodnikiem czasu B: Przez wodę ze świętego lasu C: Przez wodę od karina D: Przez kontrakt z potworem
+P: Dlaczego Rin Asogi jest nieśmiertelna?
+O: A: Przez zarodniki czasu B: Przez wodę ze świętego lasu C: Przez wodę od karina D: Przez kontrakt z potworem
 
 61 A 2
-P: Jakie były skutki wpadnięcia Rin Asogi do silnika samolotu pasażerskiego
-O: A: Straciła pamiec B: Umarła C: Zniszczyła silnik D: Nic się jej nie stało
+P: Jakie były skutki wpadnięcia Rin Asogi do silnika samolotu pasażerskiego?
+O: A: Straciła pamieć B: Umarła C: Zniszczyła silnik D: Nic się jej nie stało
 
 62 A 2
-P: Jakie zazwyczaj "śniadanie" jedzą Rin Asogi i jej przyjaciólka Mimi
+P: Jakie zazwyczaj "śniadanie" jedzą Rin Asogi i jej przyjaciółka Mimi?
 O: A: Pija mocny alkochol B: Omurice C: Płatki z mlekiem D: Hamburgery
 
 63 A 3
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: RIN: Daughters of Mnemosyne B: Hellsing C: Darken than Black D: Flip Flappers
 S: 8
 
 64 A 3
-P: Po ilu krokach Papi harpia traci pamięć
-O: A: Po trzech B: Po Pięciu C: Po Dwóch D:Po Dziesięciu
+P: Po ilu krokach harpia Papi traci pamięć?
+O: A: Po trzech B: Po pięciu C: Po dwóch D:Po dziesięciu
 
 65 A 3
-P: Czym upija sie Rachnera Arachnera
-O: A: Kawą B: Alkocholem C: Cukrem D: Miłością
+P: Czym upija się Rachnera Arachnera?
+O: A: Kawą B: Alkoholem C: Cukrem D: Miłością
 
 66 A 2
-P: Jak długa jest Lamia Miia
+P: Jak długa jest Lamia Miia?
 O: A: 7m B: 10m C: 8m D: Secret info
 
 67 A 1
-P: W co rodzeństwo z "No Game No Life" pokonało boga gier Teta
-O: A: W szachy B: Shogi C: Warcaby D: Mahjonga
+P: W jaką grę rodzeństwo z "No Game No Life" pokonało boga gier Teta?
+O: A: Szachy B: Shogi C: Warcaby D: Mahjonga
 
 68 A 1
-P: Co dziadek Stephani Doli przegrał z Jibril
-O: A: Bibliotekę B: Pałac C: Ambasadę D: Łaźnia
+P: Co dziadek Stephani Doli przegrał z Jibril?
+O: A: Bibliotekę B: Pałac C: Ambasadę D: Łaźnię
 
 69 A 2
-P: W co Sora grał z Kapłanką Zwierzołaków
+P: W co Sora grał z Kapłanką Zwierzołaków?
 O: A: Rzucił monetą B: Pokera C: Blackjack D: Papier, Kamień, Nożyce
 
 70 A 1
-P: Jak Sora i Shiro zostali królem i królowa Elki
-O: A: Wygrali z Kurami Zell w szachy B: Wygrali z Jibrill w szachy C: Wygrali z Izuną w szachy D: Wygrali z Steph w szachy
+P: Jak Sora i Shiro zostali królem i królowa Elki?
+O: A: Wygrali z Kurami Zell w szachy B: Wygrali z Jibril w warcaby C: Wygrali z Izuną w szachy D: Wygrali z Steph w pokera
 
 71 A 2
-P: Co Sora i Shiro spodziewali sie znaleźc w tajnym pokoju dziadka Steph
+P: Co Sora i Shiro spodziewali sie znaleźc w tajnym pokoju dziadka Steph?
 O: A: Kolekcję świerszczyków B: Pieniądze C: Majtki Steph D: Bibliotekę
 
 72 A 1
-P: Dlaczego Albedo kocha się w Ainzie
+P: Dlaczego Albedo kocha się w Ainzie?
 O: A: Zmienił jej ustawienia B: Jest nekrofilką C: Rzucił na nią urok D: Żadne z powyższych
 
 73 A 3
-P: Jak nazywa się NPC stworzony przez Ainza
+P: Jak nazywa się NPC stworzony przez Ainza?
 O: A: Pandoras Actor B: Albedo C: Aura D: Kokytus
 
 74 A 3
-P: Jak nazywa się poszukiwacz przygód alter ego Ainza gdy ten wychodzi z grobowca
+P: Jak nazywa się poszukiwacz przygód, alter ego Ainza gdy ten wychodzi z grobowca?
 O: A: Momon B: Hamasuke C: Honyopenyoko D: Nabe
 
 75 A 1
-P: Jak Ainz zabił Clementine
+P: Jak Ainz zabił Clementine?
 O: A: Ścisnął ją B: Spalił C: Przciął mieczem D: Zabił magią
 
 76 A 1
-P: Kogo przedstawia screen
+P: Kogo przedstawia zrzut ekranu?
 O: A: Chomisław B: Królisław C: Królowa Lasu D: Hamtaro
 S: 9
 
 77 A 1
-P: Jak nazywa się gra w którą gra Kirito żeby znalexć zabójcę graczy
+P: Jak nazywa się gra w którą gra Kirito żeby znaleźć zabójcę graczy?
 O: A: Gun Gale Online B: Yggdrasil C: Elder Tale D: ALfheim Online
 
 78 A 2
-P: Jak nazywa się latajacy zamek z SAO
+P: Jak nazywa się latajacy zamek z SAO?
 O: A: Aincrad B: Ruby Palace C: Glocken D:Alfheim
 
 79 A 1
-P: Czym walczy Asuna w pierwszym sezonie SAO
+P: Czym walczy Asuna w pierwszym sezonie SAO?
 O: A: Rapierem B: Mieczem C: Toporem D: Pistoletem
 
 80 A 1
-P: Dlaczego Kirito dostał Double Wielda
-O: A: Bo miał najszybszy czas reakcji B: Był beta testeram gry C: Wygrał na loterii D: Kupił za realne pieniądzę
+P: Dlaczego Kirito dostał Double Wielda?
+O: A: Bo miał najszybszy czas reakcji B: Był beta testeram gry C: Wygrał na loterii D: Kupił za realne pieniądze
 
 81 A 1
-P: Jak ma na i mie najlepszy przyjaciel Simona z gurren Lagan
+P: Jak ma na imię najlepszy przyjaciel Simona z Tengen Toppa Gurren Lagann?
 O: A: Kamina B: Rossiu C: Kittan D: Leeron
 
 82 A 2
-P: Do czego zostały stworzone Gunmeny
+P: Do czego zostały stworzone Gunmeny?
 O: A: Żeby walczyć z Antyspiralnymi B: Żeby walczyć ze Spiralnymi C: Żeby walczyć z Ludźmi D: Żeby walczyć z Gurrenami
 
 83 A 2
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Tengen Toppa Gurren Lagann B: Gundam Wing C: Macross Plus D: Cowboy Bebop
 S: 10
 
 84 A 1
-P: Od kogo swój Geass dostał Lelouch Lamperouge
+P: Od kogo swój Geass dostał Lelouch Lamperouge?
 O: A: Od C.C. B: Od V.V C: Od swojej Matki D: Od swojego Ojca
 
 85 A 1
-P: Jak nazywają się Mechy z uniwerum Code Geass
-O: A: Kinghtomare Frame B: Evangeliony C: Trial Kreiger D: Escaflowne
+P: Jak nazywają się Mechy z uniwerum Code Geass?
+O: A: Knightmare Frame B: Evangeliony C: Trial Kreiger D: Escaflowne
 
 86 A 1
-P: Jaki minerał jest wykorzystywany do zasilania mechów w Code Geass
-O: A: Sakuradyt B: Mithril C: Siberite D: Orihalcum
+P: Jaki minerał jest wykorzystywany do zasilania mechów w Code Geass?
+O: A: Sakuradite B: Mithril C: Siberite D: Orichalcum
 
 87 A 1
-P: Jakie imię przyjął Lelouch Lamperouge gdzy zaczął prowadzić Czarnych Rycerzy
+P: Jakie imię przyjął Lelouch Lamperouge gdzy zaczął prowadzić Czarnych Rycerzy?
 O: A: Zero B: Mao C: Orange D: Lancelot
 
 88 A 2
-P: Jak nazywa się mech Suzaku
+P: Jak nazywa się mech Suzaku?
 O: A: Lancelot B: Guren C: Glasgow D: Excalibur
 
 89 A 3
-P: Jaki Geass ma Rycerz numer 1 Bismarc Waldstein
-O: A: Potrafi spojżeć w przyszłośc na kilka milisekund B: Jego rozkazy muszą być bezwzględnie wykonane C: Czyta w myślach D: Ztarzymuje odczuwanie czasu osoby
+P: Jaki Geass ma Rycerz numer 1 Bismarc Waldstein?
+O: A: Potrafi spojżeć w przyszłość na kilka milisekund B: Jego rozkazy muszą być bezwzględnie wykonane C: Czyta w myślach D: Zatrzymuje odczuwanie czasu osoby
 
 90 A 1
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Code Geass R1 B: Monster Musume C: Sword Art Online D: School Rumble
 S: 11
 
 91 A 2
-P: Czym zajmował się ernesti Echevailer zanim zreinkarnował w świecie Knight & Magic
+P: Czym zajmował się Ernesti Echevarria zanim zreinkarnował w świecie Knight & Magic?
 O: A: Był programistą B: Był pracownikiem biurowym C: Nie pracował D: Był inżynierem
 
 92 A 2
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Knight and Magic B: Gurren Lagann C: Magic Knight Rayearth D: Shwarzmarken
 S: 12
 
 93 A 3
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Centaur no Nayami B: Monster Musume C: Elfen Lied D: Arslan senki
 S: 13
 
 94 A 1
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Chobits B: Experiment Lain C: Ah! My Goddes! D: To Love-Ru
 S: 14
 
 95 A 3
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Flip Flappers B: FLCL C: Bakemonogatari D: Monster
 S: 15
 
 96 A 2
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Black Bullet B: Gakusen Toshi Asterisk C: Mai-Otome D: Tenshi no 3 P!
 S: 16
 
 97 A 1
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: High School of the Dead B: Highschool DxD C: School Rumble D: Great Teacher Onizuka
 S: 17
 
 98 A 2
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Tiger Mask W B: Vivid strike C: Baki D: Wanna be the strongest in the world
 S: 18
 
 99 A 2
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Valkyrie Drive: Mermaid B: Upotte!! C: Full Metal Panic! D: Black Lagoon
 S: 19
 
 100 A 3
-P: Jakie anime przedstawia screen
+P: Jakie anime przedstawia zrzut ekranu?
 O: A: Valvrave the Liberator B: Tokyo Ghoul C: Demon King Daimao D: Owari no Seraph
 S: 20
 
 101 C 3
-P: Jak nazywa się Arm Slave, którego pilotuje Gauron?
+P: (Full Metal Panic!) Jak nazywa się Arm Slave, którego pilotuje Gauron?
 O: A: ARX-7 Arbalest B: M9D/A4-1 Falke C: Plan-1056 Codarl D: RK-92 Savage
 
 102 D 1
-P: Jaki znak wywoławczy w Arm Slave'ie ma Sagara Sousuke?
+P: (Full Metal Panic!) Jaki znak wywoławczy w Arm Slave'ie ma Sagara Sousuke?
 O: A: URZU-1 B: URZU-2 C: URZU-6 D: URZU-7
 
 103 B 1
-P: Jak na imię ma brat Telethy Testarossy?
+P: (Full Metal Panic!) Jak na imię ma brat Telethy Testarossy?
 O: A: John B: Leonard C: Richard D: Vincent
 
 104 B 1
@@ -503,23 +503,23 @@ P: Jaka jest kara za opószczenie terenu podczs rozgrywki w anime Gantz?
 O: A: Eksplozja Głowy B: Zatrzymanie akcji serca C: Kara minus 100 punktów D: Śmierć całej drużyny
 
 122 D 2
-P: Jaka jest nagroda za uzyskanie 100 punktów w Gantz
+P: Jaka jest nagroda za uzyskanie 100 punktów w Gantz?
 O: A: Wskrzeszenie poległego zawodnika B: Dostęp do nowej broni C: Wolnośc D: Wszystkie powyższe
 
 123 A 1
-P: Ile kropek na czole ma Krillin
+P: Ile kropek na czole ma Krillin?
 O: A: 6 B: nie ma, ma strzałkę C: 4 D: 9
 
 124 A 3
-P: Ile razy Vegeta przegrał z Goku w pojedynku
+P: Ile razy Vegeta przegrał z Goku w pojedynku?
 O: A: 0 B: 1 C: 2 D: 3
 
 125 A 1
-P: Czego panicznie boi sie Goku
+P: Czego panicznie boi sie Goku?
 O: A: Zastrzyków B: Chi chi C: Głodu D: Yanmy
 
 126 A 2
-P: Co jadł Goku podczas podrórzy do mistrza Kai
+P: Co jadł Goku podczas podrórzy do mistrza Kai?
 O: A: Jadł Chmury B: Głodował C: Jadł jabłka D: Jadł senzu
 
 127 A 2
@@ -527,23 +527,23 @@ P: Jak nazywa się chmurka na której lata Goku?
 O: A: Kintou B: Senzu C: Karin D: Upa
 
 128 A 1
-P: Jak nazywa się miasto dusz w Bleachu
+P: Jak nazywa się miasto dusz w Bleachu?
 O: A: Rukongai B: Karakura C: Tokyo D: Dangai
 
 129 A 2
-P: Jakie hobby ma Ishida Uryuu
+P: Jakie hobby ma Ishida Uryuu?
 O: A: Szycie B: Łucznictwo C: Szydełkowanie D: Dziewiarstwo
 
 130 A 1
-P: Ile lat ma Eikichi Onizuka
+P: Ile lat ma Eikichi Onizuka?
 O: A: 22 B: 24 C: 26 D: 28
 
 131 A 3
-P: Który Dan w karate ma Eikichi Onizuka
+P: Który Dan w karate ma Eikichi Onizuka?
 O: A: Drugi B: Dziesiąty C: Pierwszy D: Czrny pas
 
 132 A 1
-P: Iloma katanami walczy Killer Bee
+P: Iloma katanami walczy Killer Bee?
 O: A: 7 B: 6 C: 2 D: 1
 
 133 B 1
@@ -631,7 +631,7 @@ P:Jak ma na imię pies przygarnięty przez Mayu?
 O: A: Bando B: Nyu C: Kurama D: Wanta
 
 154 B 2
-P: Na jakich istotach skupia się anime Elfen Lied
+P: Na jakich istotach skupia się anime Elfen Lied?
 O: A: Demonach B: Dicloniusach C: Ludziach D: Kobietach o różowych włosach
 
 155 A 3
@@ -651,35 +651,35 @@ P: Dlaczego młoda Lucy zabiła swoich kolegów w klasie?
 O: A: Naśmiewali się z jej fryzury B: Naśmiewali się z jej rogów C: Prześladowali ją D: Zabili jej pieska
 
 159 A 2
-P: Jak nazywa się ta technika
+P: Jak nazywa się ta technika?
 O: A: Gates of Boottylon B: Gates of Boobylon C: Booty Portal D: Dat Ass
 S: 21
 
 160 A 1
-P: Na jakiej planecie stoi protagonista
+P: Na jakiej planecie stoi protagonista?
 O: A: Mars B: Ziemia C: Księżyc D: Uran
 S: 22
 
 161 A 2
-P: Ile przeciętny członek klanu demona ma serc
+P: Ile przeciętny członek klanu demona ma serc?
 O: A: 2 B: 1 C: 4 D: 7
 
 162 A 1
-P: Jak nazywa się świnka Meliodasa
+P: Jak nazywa się świnka Meliodasa?
 O: A: Hawk B: Eagle C: Crow D: Swallow
 
 163 A 1
-P: Jak się nazywa słynna technika Meliodasa
+P: Jak się nazywa słynna technika Meliodasa?
 O: A: Full Counter B: Rolling Ham Attack C: Steal D: Dragon Wrath
 
 164 A 1
-P: W jaki sposób Izuku Midoryja otrzymał Quirk
-O: A: Zajdł włos B: Wypił eliksir C: Ugryzł go pająk D: Dotał błyskawicą
+P: W jaki sposób Izuku Midoryia otrzymał Quirk?
+O: A: Zajdł włos B: Wypił eliksir C: Ugryzł go pająk D: Uderzyła go błyskawicą
 
 165 A 1
-P: Co Ochako musi zrobić żeby zapanować nad grawitacją przedmiotu
+P: Co Ochako musi zrobić żeby zapanować nad grawitacją przedmiotu?
 O: A: Dotknąć go B: Złożyć dłonie w piramidkę C: Polizac go D: Popatrzeć na niego przez 11 sekund
 
 166 A 1
-P: Dlaczego Shoto Todoroki nie chce kożystać z ognistej części swojego quirka
+P: Dlaczego Shoto Todoroki nie chce korzystać z ognistej części swojego quirka?
 O: A: Z powodu ojca B: Bo nad nią nie panuje C: Bo nie chce spalić sobie ubrań D: Boi sie ognia
